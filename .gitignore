@@ -115,6 +115,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv-python_data_structures/
 
 # Spyder project settings
 .spyderproject
